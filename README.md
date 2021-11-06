@@ -26,4 +26,5 @@ This is a project I have been wanting to do in Golang for so long, after using P
 3. Domain discovery per Domain , Category and Per Country (Food, Recipe, United States)
 
 
-
+Still under Design
+![scraper drawio](https://user-images.githubusercontent.com/31534711/140601628-47376d2f-e4c8-42cb-a35a-3a7f221e8e69.png)
